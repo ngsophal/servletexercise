@@ -21,7 +21,8 @@ First: http://localhost:8080/servletexercise/<br>
 -Url Filther: http://localhost:8080/servletexercise/myFilter.jsp<br>
 -Upload folder C:\workspace\servlet-jsp-html-exercise\uploads<br>
 
-<b>>REfference</b>
+<b>>REfference</b><br>
+https://github.com/sophea/servlet/blob/master/src/main/java/com/rupp/sample/web/WriteCookie.java
 http://www.java2s.com/Code/Java/Collections-Data-Structure/Storeuserdefinedobjectsinarraylist.htm
 http://www.javatpoint.com/example-to-display-image-using-servlet
 http://www.javatpoint.com/servlet-http-session-login-and-logout-example
